@@ -1,1 +1,2 @@
-Here I put some codes in C++, just for fun
+Neste repositório coloco códigos e testes em C++, somente por diversão.
+
